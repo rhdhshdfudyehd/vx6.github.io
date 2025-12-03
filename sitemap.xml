@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.sdamka.com/</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.sdamka.com/article.html</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -285,6 +285,12 @@
   <url>
     <loc>https://www.sdamka.com/article/wei-xin-bei-xian-zhi-le-zen-me-jie-feng.html</loc>
     <lastmod>2025-11-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.sdamka.com/article/yin-mi-de-shen-fen-jiao-yi-wei-xin-hao-hei-shi-yu-shu-zi-shi-dai-de-zi-wo-lie-bian.html</loc>
+    <lastmod>2025-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
